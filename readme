@@ -1,0 +1,8 @@
+- create txn Solana chain
+- rpc : https://api.testnet.sonic.game and https://devnet.sonic.game
+
+run:  
+- npm i
+- node .\send_sol.js
+
+
